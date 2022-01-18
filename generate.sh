@@ -9,7 +9,7 @@ if [ -z "${FIRST_NAME}" -o -z "${LAST_NAME}" ]; then
 fi
      
 cat << EOF
-Thank you for giving feedback on ${FIRST_NAME} ${LAST_NAME}, while perhaps uncomfortable your feedback is important for the development of our organization and ${FIRST_NAME}. Please take a few minutes to answer the questions below. All feedback will be kept confidential and synthesized prior to being shared with ${FIRST_NAME}
+Thank you for giving feedback on ${FIRST_NAME} ${LAST_NAME}, while perhaps uncomfortable, your feedback is important for the development of our organization and ${FIRST_NAME}. Please take a few minutes to answer the questions below. All feedback will be kept confidential and synthesized prior to being shared with ${FIRST_NAME}
 
 What is ${FIRST_NAME}'s greatest strength, how should they use it next year? 
 
