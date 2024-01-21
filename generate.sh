@@ -15,7 +15,7 @@ What is ${FIRST_NAME}'s greatest strength, how should they use it next year?
 
 What is ${FIRST_NAME}’s greatest weakness, how could they improve next year?
 
-You have 30 seconds to describe ${FIRST_NAME} to a stranger, what would you say? 
+How does ${FIRST_NAME} make you feel when you work with them? 
 
 EOF
 
